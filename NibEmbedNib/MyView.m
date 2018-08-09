@@ -9,7 +9,6 @@
 #import "MyView.h"
 
 @interface MyView()
-@property (strong, nonatomic) IBOutlet UIView *view;
 
 @end
 

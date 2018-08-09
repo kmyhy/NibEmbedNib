@@ -9,7 +9,7 @@
 #import "NibView.h"
 
 @interface NibView()
-@property (strong, nonatomic) IBOutlet UIView *view;
+@property (strong, nonatomic) UIView *view;
 
 @end
 
