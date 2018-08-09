@@ -10,5 +10,5 @@
 
 IB_DESIGNABLE // 这个属性可以继承给子类
 @interface NibView : UIView
-
+-(void)xibSetup;
 @end
